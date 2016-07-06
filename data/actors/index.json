@@ -14,6 +14,11 @@
 		"gender": "man",
 		"born": "1990-06-13"
 	},
+	"Adam Garcia": {
+		"name": "Adam Garcia",
+		"gender": "man",
+		"born": "1973-06-01"
+	},
 	"Adam Sandler": {
 		"name": "Adam Sandler",
 		"gender": "man",
@@ -259,6 +264,16 @@
 		"gender": "man",
 		"born": "1949-12-12"
 	},
+	"Bill Paxton": {
+		"name": "Bill Paxton",
+		"gender": "man",
+		"born": "1955-05-17"
+	},
+	"Bill Pullman": {
+		"name": "Bill Pullman",
+		"gender": "man",
+		"born": "1953-12-17"
+	},
 	"Billy Bob Thornton": {
 		"name": "Billy Bob Thornton",
 		"gender": "man",
@@ -444,6 +459,11 @@
 		"gender": "woman",
 		"born": "1980-02-12"
 	},
+	"Christine Taylor": {
+		"name": "Christine Taylor",
+		"gender": "woman",
+		"born": "1971-07-30"
+	},
 	"Christoph Waltz": {
 		"name": "Christoph Waltz",
 		"gender": "man",
@@ -453,6 +473,11 @@
 		"name": "Christopher Plummer",
 		"gender": "man",
 		"born": "1929-12-13"
+	},
+	"Cillian Murphy": {
+		"name": "Cillian Murphy",
+		"gender": "man",
+		"born": "1976-05-25"
 	},
 	"Claire Danes": {
 		"name": "Claire Danes",
@@ -679,6 +704,11 @@
 		"gender": "man",
 		"born": "1969-08-18"
 	},
+	"Elisabeth Shue": {
+		"name": "Elisabeth Shue",
+		"gender": "woman",
+		"born": "1963-10-06"
+	},
 	"Elizabeth Banks": {
 		"name": "Elizabeth Banks",
 		"gender": "woman",
@@ -764,6 +794,11 @@
 		"gender": "man",
 		"born": "1968-08-09"
 	},
+	"Essie Davis": {
+		"name": "Essie Davis",
+		"gender": "woman",
+		"born": "1970-11-30"
+	},
 	"Ethan Hawke": {
 		"name": "Ethan Hawke",
 		"gender": "man",
@@ -819,10 +854,20 @@
 		"gender": "woman",
 		"born": "1957-06-23"
 	},
+	"Franka Potente": {
+		"name": "Franka Potente",
+		"gender": "woman",
+		"born": "1974-07-22"
+	},
 	"Freida Pinto": {
 		"name": "Freida Pinto",
 		"gender": "woman",
 		"born": "1984-10-18"
+	},
+	"Gabriel Macht": {
+		"name": "Gabriel Macht",
+		"gender": "man",
+		"born": "1972-01-22"
 	},
 	"Gabrielle Union": {
 		"name": "Gabrielle Union",
@@ -848,6 +893,16 @@
 		"name": "Gerard Butler",
 		"gender": "man",
 		"born": "1969-11-13"
+	},
+	"Gina Ravera": {
+		"name": "Gina Ravera",
+		"gender": "woman",
+		"born": "1966-05-20"
+	},
+	"Gina Torres": {
+		"name": "Gina Torres",
+		"gender": "woman",
+		"born": "1969-04-25"
 	},
 	"Ginnifer Goodwin": {
 		"name": "Ginnifer Goodwin",
@@ -963,6 +1018,11 @@
 		"name": "Idina Menzel",
 		"gender": "woman",
 		"born": "1971-05-30"
+	},
+	"Idris Elba": {
+		"name": "Idris Elba",
+		"gender": "man",
+		"born": "1972-09-06"
 	},
 	"Ingrid Bergman": {
 		"name": "Ingrid Bergman",
@@ -1099,6 +1159,16 @@
 		"gender": "man",
 		"born": "1955-01-19"
 	},
+	"Jeff Goldblum": {
+		"name": "Jeff Goldblum",
+		"gender": "man",
+		"born": "1952-10-22"
+	},
+	"Jeffrey D. Sams": {
+		"name": "Jeffrey D. Sams",
+		"gender": "man",
+		"born": "1968-06-18"
+	},
 	"Jeffrey Dean Morgan": {
 		"name": "Jeffrey Dean Morgan",
 		"gender": "man",
@@ -1169,6 +1239,11 @@
 		"gender": "man",
 		"born": "1983-10-05"
 	},
+	"Jessica Alba": {
+		"name": "Jessica Alba",
+		"gender": "woman",
+		"born": "1981-04-28"
+	},
 	"Jessica Biel": {
 		"name": "Jessica Biel",
 		"gender": "woman",
@@ -1193,6 +1268,11 @@
 		"name": "Jim Carrey",
 		"gender": "man",
 		"born": "1962-01-17"
+	},
+	"Jimmy Fallon": {
+		"name": "Jimmy Fallon",
+		"gender": "man",
+		"born": "1974-09-19"
 	},
 	"J.K. Simmons": {
 		"name": "J.K. Simmons",
@@ -1268,6 +1348,11 @@
 		"name": "Jon Hamm",
 		"gender": "man",
 		"born": "1971-03-10"
+	},
+	"Jon Lovitz": {
+		"name": "Jon Lovitz",
+		"gender": "man",
+		"born": "1957-07-21"
 	},
 	"Jon Stewart": {
 		"name": "Jon Stewart",
@@ -1528,6 +1613,11 @@
 		"name": "Kevin Spacey",
 		"gender": "man",
 		"born": "1959-07-26"
+	},
+	"Kim Basinger": {
+		"name": "Kim Basinger",
+		"gender": "woman",
+		"born": "1953-12-08"
 	},
 	"Kim Cattrall": {
 		"name": "Kim Cattrall",
@@ -1819,6 +1909,11 @@
 		"gender": "woman",
 		"born": "1961-11-19"
 	},
+	"Mekhi Phifer": {
+		"name": "Mekhi Phifer",
+		"gender": "man",
+		"born": "1974-12-29"
+	},
 	"Mel Gibson": {
 		"name": "Mel Gibson",
 		"gender": "man",
@@ -1849,10 +1944,20 @@
 		"gender": "woman",
 		"born": "1949-06-22"
 	},
+	"Mia Farrow": {
+		"name": "Mia Farrow",
+		"gender": "woman",
+		"born": "1945-02-09"
+	},
 	"Mia Wasikowska": {
 		"name": "Mia Wasikowska",
 		"gender": "woman",
 		"born": "1989-10-14"
+	},
+	"Michael Beach": {
+		"name": "Michael Beach",
+		"gender": "man",
+		"born": "1963-10-30"
 	},
 	"Michael Cera": {
 		"name": "Michael Cera",
@@ -1898,6 +2003,11 @@
 		"name": "Michelle Williams",
 		"gender": "woman",
 		"born": "1980-09-09"
+	},
+	"Mickey Rourke": {
+		"name": "Mickey Rourke",
+		"gender": "man",
+		"born": "1952-09-16"
 	},
 	"Mike Birbiglia": {
 		"name": "Mike Birbiglia",
@@ -1984,6 +2094,11 @@
 		"gender": "woman",
 		"born": "1973-10-03"
 	},
+	"Nia Long": {
+		"name": "Nia Long",
+		"gender": "woman",
+		"born": "1970-10-30"
+	},
 	"Nia Vardalos": {
 		"name": "Nia Vardalos",
 		"gender": "woman",
@@ -2039,6 +2154,11 @@
 		"gender": "woman",
 		"born": "1968-07-26"
 	},
+	"Omar Epps": {
+		"name": "Omar Epps",
+		"gender": "man",
+		"born": "1973-07-20"
+	},
 	"Orlando Bloom": {
 		"name": "Orlando Bloom",
 		"gender": "man",
@@ -2093,6 +2213,11 @@
 		"name": "Paula Patton",
 		"gender": "woman",
 		"born": "1975-12-05"
+	},
+	"Pauly Shore": {
+		"name": "Pauly Shore",
+		"gender": "man",
+		"born": "1968-02-01"
 	},
 	"Paz Vega": {
 		"name": "Paz Vega",
@@ -2209,6 +2334,16 @@
 		"gender": "man",
 		"born": "1986-06-18"
 	},
+	"Ricky Gervais": {
+		"name": "Ricky Gervais",
+		"gender": "man",
+		"born": "1961-06-25"
+	},
+	"Rob Lowe": {
+		"name": "Rob Lowe",
+		"gender": "man",
+		"born": "1964-03-17"
+	},
 	"Robert Downey Jr.": {
 		"name": "Robert Downey Jr.",
 		"gender": "man",
@@ -2258,6 +2393,16 @@
 		"name": "Rose Byrne",
 		"gender": "woman",
 		"born": "1979-07-24"
+	},
+	"Rosie Perez": {
+		"name": "Rosie Perez",
+		"gender": "woman",
+		"born": "1964-09-06"
+	},
+	"Rupert Friend": {
+		"name": "Rupert Friend",
+		"gender": "man",
+		"born": "1981-10-01"
 	},
 	"Russell Brand": {
 		"name": "Russell Brand",
@@ -2359,6 +2504,11 @@
 		"gender": "woman",
 		"born": "1959-11-20"
 	},
+	"Sebastian Stan": {
+		"name": "Sebastian Stan",
+		"gender": "man",
+		"born": "1982-08-13"
+	},
 	"Seth Rogen": {
 		"name": "Seth Rogen",
 		"gender": "man",
@@ -2414,10 +2564,20 @@
 		"gender": "woman",
 		"born": "1972-07-10"
 	},
+	"Sophia Myles": {
+		"name": "Sophia Myles",
+		"gender": "woman",
+		"born": "1980-03-18"
+	},
 	"Stacey Dash": {
 		"name": "Stacey Dash",
 		"gender": "woman",
 		"born": "1967-01-20"
+	},
+	"Stephen Collins": {
+		"name": "Stephen Collins",
+		"gender": "man",
+		"born": "1947-10-01"
 	},
 	"Steve Carell": {
 		"name": "Steve Carell",
@@ -2489,6 +2649,11 @@
 		"gender": "woman",
 		"born": "1982-03-11"
 	},
+	"Tia Carrere": {
+		"name": "Tia Carrere",
+		"gender": "woman",
+		"born": "1967-01-02"
+	},
 	"Tika Sumpter": {
 		"name": "Tika Sumpter",
 		"gender": "woman",
@@ -2554,6 +2719,11 @@
 		"gender": "woman",
 		"born": "1968-10-15"
 	},
+	"Vanessa Williams": {
+		"name": "Vanessa Williams",
+		"gender": "woman",
+		"born": "1963-03-18"
+	},
 	"Vera Farmiga": {
 		"name": "Vera Farmiga",
 		"gender": "woman",
@@ -2584,6 +2754,11 @@
 		"gender": "man",
 		"born": "1961-04-11"
 	},
+	"Vivica A. Fox": {
+		"name": "Vivica A. Fox",
+		"gender": "woman",
+		"born": "1964-07-30"
+	},
 	"Vivien Leigh": {
 		"name": "Vivien Leigh",
 		"gender": "woman",
@@ -2598,6 +2773,11 @@
 		"name": "Wes Bentley",
 		"gender": "man",
 		"born": "1978-09-04"
+	},
+	"Wesley Snipes": {
+		"name": "Wesley Snipes",
+		"gender": "man",
+		"born": "1962-07-31"
 	},
 	"Whitney Houston": {
 		"name": "Whitney Houston",
