@@ -34,6 +34,11 @@
 		"gender": "man",
 		"born": "1973-04-14"
 	},
+	"Al Pacino": {
+		"name": "Al Pacino",
+		"gender": "man",
+		"born": "1940-04-25"
+	},
 	"Alan Rickman": {
 		"name": "Alan Rickman",
 		"gender": "man",
@@ -119,6 +124,11 @@
 		"gender": "man",
 		"born": "1989-01-01"
 	},
+	"Andy Garcia": {
+		"name": "Andy Garcia",
+		"gender": "man",
+		"born": "1956-04-12"
+	},
 	"Angela Bassett": {
 		"name": "Angela Bassett",
 		"gender": "woman",
@@ -199,6 +209,11 @@
 		"gender": "woman",
 		"born": "1976-08-09"
 	},
+	"Barbra Streisand": {
+		"name": "Barbra Streisand",
+		"gender": "woman",
+		"born": "1942-04-24"
+	},
 	"Bebe Neuwirth": {
 		"name": "Bebe Neuwirth",
 		"gender": "woman",
@@ -243,6 +258,11 @@
 		"name": "Berenice Marlohe",
 		"gender": "woman",
 		"born": "1979-05-19"
+	},
+	"Beverly D'Angelo": {
+		"name": "Beverly D'Angelo",
+		"gender": "woman",
+		"born": "1951-11-15"
 	},
 	"Beyonce Knowles": {
 		"name": "Beyonce Knowles",
@@ -304,6 +324,11 @@
 		"gender": "man",
 		"born": "1979-10-09"
 	},
+	"Brian J. White": {
+		"name": "Brian J. White",
+		"gender": "man",
+		"born": "1975-04-21"
+	},
 	"Bridget Fonda": {
 		"name": "Bridget Fonda",
 		"gender": "woman",
@@ -364,6 +389,11 @@
 		"gender": "woman",
 		"born": "1973-01-01"
 	},
+	"Carrie-Anne Moss": {
+		"name": "Carrie-Anne Moss",
+		"gender": "woman",
+		"born": "1967-08-21"
+	},
 	"Carrie Fisher": {
 		"name": "Carrie Fisher",
 		"gender": "woman",
@@ -384,6 +414,11 @@
 		"gender": "woman",
 		"born": "1969-09-25"
 	},
+	"Cathy Moriarty": {
+		"name": "Cathy Moriarty",
+		"gender": "woman",
+		"born": "1960-11-29"
+	},
 	"Chadwick Boseman": {
 		"name": "Chadwick Boseman",
 		"gender": "man",
@@ -398,6 +433,11 @@
 		"name": "Charlize Theron",
 		"gender": "woman",
 		"born": "1975-08-07"
+	},
+	"Chevy Chase": {
+		"name": "Chevy Chase",
+		"gender": "man",
+		"born": "1943-10-08"
 	},
 	"Chiwetel Ejiofor": {
 		"name": "Chiwetel Ejiofor",
@@ -519,10 +559,30 @@
 		"gender": "man",
 		"born": "1977-11-24"
 	},
+	"Columbus Short": {
+		"name": "Columbus Short",
+		"gender": "man",
+		"born": "1982-09-19"
+	},
+	"Connie Nielsen": {
+		"name": "Connie Nielsen",
+		"gender": "woman",
+		"born": "1965-07-03"
+	},
 	"Courtney Cox": {
 		"name": "Courtney Cox",
 		"gender": "woman",
 		"born": "1964-06-15"
+	},
+	"Craig Kilborn": {
+		"name": "Craig Kilborn",
+		"gender": "man",
+		"born": "1962-08-24"
+	},
+	"Craig T. Nelson": {
+		"name": "Craig T. Nelson",
+		"gender": "man",
+		"born": "1944-04-04"
 	},
 	"Cristin Milioti": {
 		"name": "Cristin Milioti",
@@ -558,6 +618,11 @@
 		"name": "Danny Glover",
 		"gender": "man",
 		"born": "1946-07-22"
+	},
+	"David Duchovny": {
+		"name": "David Duchovny",
+		"gender": "man",
+		"born": "1960-08-07"
 	},
 	"David Eigenberg": {
 		"name": "David Eigenberg",
@@ -844,6 +909,11 @@
 		"gender": "woman",
 		"born": "1964-11-05"
 	},
+	"Faye Dunaway": {
+		"name": "Faye Dunaway",
+		"gender": "woman",
+		"born": "1941-01-14"
+	},
 	"Felicity Jones": {
 		"name": "Felicity Jones",
 		"gender": "woman",
@@ -859,6 +929,11 @@
 		"gender": "woman",
 		"born": "1974-07-22"
 	},
+	"Freddie Prinze Jr.": {
+		"name": "Freddie Prinze Jr.",
+		"gender": "man",
+		"born": "1976-03-08"
+	},
 	"Freida Pinto": {
 		"name": "Freida Pinto",
 		"gender": "woman",
@@ -873,6 +948,11 @@
 		"name": "Gabrielle Union",
 		"gender": "woman",
 		"born": "1972-10-29"
+	},
+	"Gary Oldman": {
+		"name": "Gary Oldman",
+		"gender": "man",
+		"born": "1958-03-21"
 	},
 	"Gemma Arterton": {
 		"name": "Gemma Arterton",
@@ -1104,6 +1184,11 @@
 		"gender": "man",
 		"born": "1967-12-13"
 	},
+	"Jamie Kaler": {
+		"name": "Jamie Kaler",
+		"gender": "man",
+		"born": "1964-09-14"
+	},
 	"Jared Leto": {
 		"name": "Jared Leto",
 		"gender": "man",
@@ -1228,6 +1313,11 @@
 		"name": "Jennifer Taylor",
 		"gender": "woman",
 		"born": "1972-04-19"
+	},
+	"Jeremy Irons": {
+		"name": "Jeremy Irons",
+		"gender": "man",
+		"born": "1948-09-19"
 	},
 	"Jeremy Renner": {
 		"name": "Jeremy Renner",
@@ -1604,6 +1694,11 @@
 		"gender": "man",
 		"born": "1965-04-26"
 	},
+	"Kevin Kline": {
+		"name": "Kevin Kline",
+		"gender": "man",
+		"born": "1947-10-24"
+	},
 	"Kevin McKidd": {
 		"name": "Kevin McKidd",
 		"gender": "man",
@@ -1699,6 +1794,11 @@
 		"gender": "woman",
 		"born": "1985-07-01"
 	},
+	"Leelee Sobieski": {
+		"name": "Leelee Sobieski",
+		"gender": "woman",
+		"born": "1983-06-10"
+	},
 	"Leighton Meester": {
 		"name": "Leighton Meester",
 		"gender": "woman",
@@ -1724,6 +1824,11 @@
 		"gender": "woman",
 		"born": "1972-03-26"
 	},
+	"Leslie Nielsen": {
+		"name": "Leslie Nielsen",
+		"gender": "man",
+		"born": "1926-02-11"
+	},
 	"Liam Hemsworth": {
 		"name": "Liam Hemsworth",
 		"gender": "man",
@@ -1743,6 +1848,11 @@
 		"name": "Linda Cardellini",
 		"gender": "woman",
 		"born": "1975-06-25"
+	},
+	"Lisa Kudrow": {
+		"name": "Lisa Kudrow",
+		"gender": "woman",
+		"born": "1963-07-30"
 	},
 	"Liv Tyler": {
 		"name": "Liv Tyler",
@@ -1874,6 +1984,11 @@
 		"gender": "man",
 		"born": "1964-02-18"
 	},
+	"Matthew Davis": {
+		"name": "Matthew Davis",
+		"gender": "man",
+		"born": "1978-05-08"
+	},
 	"Matthew Goode": {
 		"name": "Matthew Goode",
 		"gender": "man",
@@ -1903,6 +2018,11 @@
 		"name": "Maya Rudolph",
 		"gender": "woman",
 		"born": "1972-07-27"
+	},
+	"Meagan Good": {
+		"name": "Meagan Good",
+		"gender": "woman",
+		"born": "1981-08-08"
 	},
 	"Meg Ryan": {
 		"name": "Meg Ryan",
@@ -2034,6 +2154,11 @@
 		"gender": "woman",
 		"born": "1975-12-17"
 	},
+	"Minnie Driver": {
+		"name": "Minnie Driver",
+		"gender": "woman",
+		"born": "1970-01-31"
+	},
 	"Mireille Enos": {
 		"name": "Mireille Enos",
 		"gender": "woman",
@@ -2063,6 +2188,11 @@
 		"name": "Morgan Freeman",
 		"gender": "man",
 		"born": "1937-06-01"
+	},
+	"Morgana King": {
+		"name": "Morgana King",
+		"gender": "woman",
+		"born": "1930-06-04"
 	},
 	"Naomi Watts": {
 		"name": "Naomi Watts",
@@ -2199,10 +2329,20 @@
 		"gender": "man",
 		"born": "1971-05-27"
 	},
+	"Paul Newman": {
+		"name": "Paul Newman",
+		"gender": "man",
+		"born": "1925-01-26"
+	},
 	"Paul Rudd": {
 		"name": "Paul Rudd",
 		"gender": "man",
 		"born": "1969-04-06"
+	},
+	"Paul Schneider": {
+		"name": "Paul Schneider",
+		"gender": "man",
+		"born": "1976-03-16"
 	},
 	"Paul Walker": {
 		"name": "Paul Walker",
@@ -2258,6 +2398,16 @@
 		"name": "Piper Perabo",
 		"gender": "woman",
 		"born": "1976-10-31"
+	},
+	"Priscilla Presley": {
+		"name": "Priscilla Presley",
+		"gender": "woman",
+		"born": "1945-04-24"
+	},
+	"Rachael Leigh Cook": {
+		"name": "Rachael Leigh Cook",
+		"gender": "woman",
+		"born": "1979-10-04"
 	},
 	"Rachel McAdams": {
 		"name": "Rachel McAdams",
@@ -2343,6 +2493,11 @@
 		"name": "Rob Lowe",
 		"gender": "man",
 		"born": "1964-03-17"
+	},
+	"Robert De Niro": {
+		"name": "Robert De Niro",
+		"gender": "man",
+		"born": "1943-08-18"
 	},
 	"Robert Downey Jr.": {
 		"name": "Robert Downey Jr.",
@@ -2509,6 +2664,11 @@
 		"gender": "man",
 		"born": "1982-08-13"
 	},
+	"Selma Blair": {
+		"name": "Selma Blair",
+		"gender": "woman",
+		"born": "1972-06-23"
+	},
 	"Seth Rogen": {
 		"name": "Seth Rogen",
 		"gender": "man",
@@ -2568,6 +2728,11 @@
 		"name": "Sophia Myles",
 		"gender": "woman",
 		"born": "1980-03-18"
+	},
+	"Sophie Marceau": {
+		"name": "Sophie Marceau",
+		"gender": "woman",
+		"born": "1966-11-17"
 	},
 	"Stacey Dash": {
 		"name": "Stacey Dash",
@@ -2659,6 +2824,11 @@
 		"gender": "woman",
 		"born": "1980-06-20"
 	},
+	"Timothy Hutton": {
+		"name": "Timothy Hutton",
+		"gender": "man",
+		"born": "1960-08-16"
+	},
 	"Timothy Olyphant": {
 		"name": "Timothy Olyphant",
 		"gender": "man",
@@ -2703,6 +2873,11 @@
 		"name": "Topher Grace",
 		"gender": "man",
 		"born": "1978-07-19"
+	},
+	"Tyrone Giordano": {
+		"name": "Tyrone Giordano",
+		"gender": "man",
+		"born": "1976-04-18"
 	},
 	"Uma Thurman": {
 		"name": "Uma Thurman",
