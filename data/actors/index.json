@@ -339,6 +339,11 @@
 		"gender": "man",
 		"born": "1948-03-14"
 	},
+	"Bo Derek": {
+		"name": "Bo Derek",
+		"gender": "woman",
+		"born": "1956-11-20"
+	},
 	"Brad Pitt": {
 		"name": "Brad Pitt",
 		"gender": "man",
@@ -353,6 +358,11 @@
 		"name": "Brandon Routh",
 		"gender": "man",
 		"born": "1979-10-09"
+	},
+	"Brian Dennehy": {
+		"name": "Brian Dennehy",
+		"gender": "man",
+		"born": "1938-07-09"
 	},
 	"Brian J. White": {
 		"name": "Brian J. White",
@@ -513,6 +523,11 @@
 		"name": "Chris Evans",
 		"gender": "man",
 		"born": "1981-06-13"
+	},
+	"Chris Farley": {
+		"name": "Chris Farley",
+		"gender": "man",
+		"born": "1964-02-15"
 	},
 	"Chris Hemsworth": {
 		"name": "Chris Hemsworth",
@@ -1714,6 +1729,11 @@
 		"gender": "woman",
 		"born": "1969-12-21"
 	},
+	"Julie Warner": {
+		"name": "Julie Warner",
+		"gender": "woman",
+		"born": "1965-02-09"
+	},
 	"Juliette Binoche": {
 		"name": "Juliette Binoche",
 		"gender": "woman",
@@ -2494,6 +2514,11 @@
 		"gender": "woman",
 		"born": "1967-06-20"
 	},
+	"Nicollette Sheridan": {
+		"name": "Nicollette Sheridan",
+		"gender": "woman",
+		"born": "1963-11-21"
+	},
 	"Nikki Reed": {
 		"name": "Nikki Reed",
 		"gender": "woman",
@@ -2778,6 +2803,11 @@
 		"name": "Roger Moore",
 		"gender": "man",
 		"born": "1927-10-14"
+	},
+	"Ron Livingston": {
+		"name": "Ron Livingston",
+		"gender": "man",
+		"born": "1967-06-05"
 	},
 	"Rooney Mara": {
 		"name": "Rooney Mara",
